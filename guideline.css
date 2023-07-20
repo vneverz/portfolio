@@ -587,3 +587,9 @@ label {
 #switch_night:checked+.top .moon {
   opacity: 0.1;
 }
+.codeembed{
+  margin:auto;
+  padding: 20px;
+  background-color: #3D3D3E
+  ;
+}
